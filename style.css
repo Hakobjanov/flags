@@ -23,7 +23,7 @@
   height: 100px;
 }
 
-.japan {
+/* .japan {
   position: relative;
   border: 1px solid #ccc;
   height: 200px;
@@ -38,4 +38,15 @@
   width: 120px;
   background-color: #bc002d;
   border-radius: 50%;
+} */
+
+.japan {
+  border: 1px solid #ccc;
+}
+.japan-bg {
+  fill: #fff;
+}
+
+.circle {
+  fill: #bc002d;
 }
